@@ -3,8 +3,6 @@ A total redo of the onboarding process
 
 **NOTE THIS IS THE SOURCE REPO, NOT THE PUBLISHED VERSION. THE PUBLISHED VERSION CAN BE FOUND [HERE](https://software.dallasformularacing.com/)!**
 
-# Table of contents
-
 # Setup
 
 ## Dependencies

@@ -133,9 +133,8 @@ markdown_extensions:
       custom_checkbox: true
       clickable_checkbox: true 
 
-nav:
-  - Home: 
-    - index.md
+nav: 
+  - index.md
   - Onboarding:
     - New to CS/SE: onboarding/new-to-CS-or-SE.md
     - Learning Python: onboarding/learning-Python.md
@@ -145,6 +144,7 @@ nav:
     - Learning SQL: resources/learning-SQL.md
     - Learning Docker: resources/learning-Docker.md
   - Projects:
-    - projects/index.md
+    - better-onboarding: projects/better-onboarding.md
   - Policies:
     - Style Guide: policies/style-guide.md
+    - Project Documentation Guidelines: policies/project-documentation-guidelines.md
