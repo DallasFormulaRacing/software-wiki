@@ -2,7 +2,7 @@
 
 Hey, seeing as you clicked this you presumably have little to no experience in the Computer Science or Software Engineering field, and that's totally okay. 
 
-Here on the DFR Software team, very few people have any kind of background knowledge with most of the technologies that we utilize on a daily basis when they enter the club, and that's 100% normal. For most, any kind of formal education up until college lacks any form of "computer education," despite using them almost every day. So suffice to say, you're not alone, and hopefully with the help of this onboarding, and your own willingness to learn (this really is the most important thing you need), you'll be a contributing member of the team in no time!
+Here on the DFR Software team, very few people have any kind of background knowledge with most of the technologies that we utilize on a daily basis when they enter the club, and that's 100% normal. For most, any kind of formal education up until college lacks any form of "computer education," despite using them almost every day. So suffice to say, you're not alone. Hopefully with the help of this onboarding, and your own willingness to learn (this really is the most important thing you need), you'll be a contributing member of the team in no time!
 
 ## Before you get started
 
@@ -19,9 +19,9 @@ If you're truly brand new to programming at all, then you've likely never heard 
 
 When most CS/SE students come to UTD, they are presented with an online IDE like [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler) through their classes, and while this does suit the needs of most class here on campus, there should never be a time when you rely on an online IDE for any kind of "large scale" development, or really ever... It's best practice to avoid using any online IDEs, primarily from a usability standpoint, but also because a local IDE, such as [VS Code](https://code.visualstudio.com/), has many more useful features when developing anything.
 
-Something worth considering, is there is a **VAST** variety of IDEs, and not all of them are created equal. In essence this means that it's kind of personal preference as to what your favorite environment is, and as such below will be a list of the most commonly used IDEs for all kinds of development. (Note, there are many IDEs that are specialized in a specific language, or type of development, but for the sake of this write-up I will only be focusing on lightweight IDEs that work with "any" language.) 4
+Something worth considering, is there is a **VAST** variety of IDEs, and not all of them are created equal. In essence this means that it's kind of personal preference as to what your favorite environment is, and as such below will be a list of the most commonly used IDEs for all kinds of development. (Note, there are many IDEs that are specialized in a specific language, or type of development, but for the sake of this write-up I will only be focusing on lightweight IDEs that work with "any" language.)
 
-(Below list taken from [Awesome-IDEs](https://github.com/zeelsheladiya/Awesome-IDEs). I highly recommend checking this list out if you want a larger more specified list of IDEs.)
+(Below is a list taken from [Awesome-IDEs](https://github.com/zeelsheladiya/Awesome-IDEs). I highly recommend checking this list out if you want a larger more specified list of IDEs.)
 
 | Name | Description | Links | System Support | Fees |
 | ---- | ----------------------------- | --- | --- | --- |
@@ -43,7 +43,8 @@ The most up to date versions as of the time of writing, with installers, can be 
 
 |Version #|Date of Release|Version Download Page|
 |:---:|:---:|:---:|
-|3.12.6|September 6, 2024|[Download](https://www.python.org/downloads/release/python-3126/)|
+|3.13.7|August 14, 2025|[Download](https://www.python.org/downloads/release/python-3137/)|
+|3.12.10|April 8, 2025|[Download](https://www.python.org/downloads/release/python-31210/)|
 |3.11.9|April 2, 2024|[Download](https://www.python.org/downloads/release/python-3119/)|
 |3.10.11|April 5, 2023|[Download](https://www.python.org/downloads/release/python-31011/)|
 
@@ -55,4 +56,4 @@ After the installer completes, you can check if you have [Python](https://www.py
 
 ## What now?
 
-After you have selected an IDE, and successfully installed [Python](https://www.python.org/), you're good to continue onto where everyone else would start! You can do this by revisiting the [Resources](resources.md) page, checking the sidebar, or just by clicking the "Next" arrow right below this.
+After you have selected an IDE, and successfully installed [Python](https://www.python.org/), you're good to continue onto where everyone else would start! You can do this by checking the sidebar, or just by clicking the "Next" arrow right below this.

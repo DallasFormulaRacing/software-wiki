@@ -10,16 +10,20 @@ Hey, welcome to the "renovated" onboarding for the [Dallas Formula Racing](https
 
 Although this TOC is still maintained, it is highly recommended that you use the sidebar to navigate through the onboarding process.
 
-* [Home](index.md)
-* [Resources](resources/resources.md)
-    * [New to CS/SE](resources/new-to-CS-or-SE.md) 
-    * [Learning Python](resources/learning-Python.md)
-    * [Learning Git/Github](resources/learning-Git.md)
+* Home
+    * [Home](index.md)
+* Onboarding
+    * [New to CS/SE](onboarding/new-to-CS-or-SE.md) 
+    * [Learning Python](onboarding/learning-Python.md)
+    * [Learning Git/Github](onboarding/learning-Git.md)
+    * [Onboarding Project](onboarding/onboarding-project.md)
+* Additional Resources
     * [Learning SQL](resources/learning-SQL.md)
     * [Learning Docker](resources/learning-Docker.md)
-* [Projects](projects/projects.md)
-* [About](about/about.md)
-    * [Style Guide](about/style-guide.md)
+* Projects
+    * [Overview](projects/index.md)
+* Policies
+    * [Style Guide](policies/style-guide.md)
 
 
 # Introduction

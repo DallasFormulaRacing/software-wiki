@@ -22,7 +22,7 @@ All section titles should use [Title Case](https://apastyle.apa.org/style-gramma
 
 When making headers, make sure to nest your headings for related topics. For markdown-based documentation, this is done by using increasing numbers of `#` followed by the heading's text. Each "major" section (such as a list of classes, functions, how to use your code, and so on.) should all be defined by a `##` header. Single `#` headers are reserved for titles only, and in order to keep our documentation neat and presentable, any major sections should be documented by the usage of `##`
 
-If you haven't noticed already, the sidebar of our Wiki lists all the important headings in order of how they appear within their respective Markdown files. Each of the subsections that are displayed underneath each major section, such as [New to CS/SE](../resources/new-to-CS-or-SE.md), is a result of one of the first three heading identifiers being used, `#`, `##`, or `###`.
+If you haven't noticed already, the sidebar of our Wiki lists all the important headings in order of how they appear within their respective Markdown files. Each of the subsections that are displayed underneath each major section, such as [New to CS/SE](../onboarding/new-to-CS-or-SE.md), is a result of one of the first three heading identifiers being used, `#`, `##`, or `###`.
 
 **Example header hierarchy**
 ```md
@@ -81,7 +81,7 @@ All filenames, filepaths, variables, literals, and endpoints, should be enclosed
 
 ### Code samples
 
-Code samples longer than a single line should be put within an appropriate [fenced code block](https://www.markdownguide.org/extended-syntax/#syntax-highlighting) via the usage of 3 backticks (```) or 3 tildes (~~~). Unless there isn't a given language for your code block, then you should always specify the language being used in a fenced code block to enable syntax highlighting. Examples of the difference between non-highlighted and highlighted can be found [here](https://www.markdownguide.org/extended-syntax/?#fenced-code-blocks). However, below you can find an example of a properly formatted code block with syntax highlighting for the [Python](https://python.org/) language.
+Code samples longer than a single line should be put within an appropriate [fenced code block](https://www.markdownguide.org/extended-syntax/#syntax-highlighting) via the usage of 3 backticks (```) or 3 tildes (~~~). Unless there isn't a given language for your sample, you should always specify the language being used in a fenced code block to enable syntax highlighting. Examples of the difference between non-highlighted and highlighted can be found [here](https://www.markdownguide.org/extended-syntax/?#fenced-code-blocks). However, below you can find an example of a properly formatted code block with syntax highlighting for the [Python](https://python.org/) language.
 
 ```py
 import random
@@ -174,3 +174,4 @@ However, there is an exception to the above rule. In the event that you are decl
 
 ```txt
 At the prompt enter "Y", then press Enter on your keyboard.
+```

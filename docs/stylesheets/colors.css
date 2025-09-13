@@ -6,6 +6,10 @@
     --md-typeset-a-color: #E97600;
 }
 
+.md-typeset [type=checkbox]:checked+.task-list-indicator:before {
+    background-color: #E97600;
+}
+
 :root {
     --md-accent-fg-color: #ff8800;
 }
