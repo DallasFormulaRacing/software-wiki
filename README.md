@@ -26,4 +26,4 @@ A total redo of the onboarding process
 * All pages should be properly named and linked in the `mkdocs.yml` file to maintain sidebar functionality.
 * Upon completing your changes, make a PR to the `src` branch for review.
 
-## ALL OTHER STYLE AND CONTENT GUIDELINES ARE LOCATED IN THE [HERE](https://software.dallasformularacing.com/policies/style-guide/).
+## ALL OTHER STYLE AND CONTENT GUIDELINES ARE LOCATED IN THE [STYLE GUIDE](https://software.dallasformularacing.com/policies/style-guide/).
