@@ -1,6 +1,6 @@
 # Home
 
-Hey, welcome to the "renovated" onboarding for the [Dallas Formula Racing](https://dallasformularacing.com/) - Software subteam! Here you will be able to find a table of contents for all of the various topics you should at least cover during your onboarding process, along with any "basic" resources you might need to get acquainted with the systems & technologies we use within our team.
+Hey, welcome to the [DFR](https://dallasformularacing.com/) Software Wiki! This wiki is home to our onboarding resources, project documentation, and the various policies that outline how to add to and maintain our documentation.
 
 !!! info "WIP" 
     This wiki is currently a **work in progress** project that does not reflect all of the resources or projects within DFR at this moment in time, and as such should not be treated as the be all and end all of information regarding our internal systems.
