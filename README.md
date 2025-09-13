@@ -25,3 +25,5 @@ A total redo of the onboarding process
 * All images and other file assets should be located under the `docs/assets` folder.
 * All pages should be properly named and linked in the `mkdocs.yml` file to maintain sidebar functionality.
 * Upon completing your changes, make a PR to the `src` branch for review.
+
+## ALL OTHER STYLE AND CONTENT GUIDELINES ARE LOCATED IN THE [HERE](https://software.dallasformularacing.com/policies/style-guide/).
