@@ -7,7 +7,7 @@ Now that you've got a general understanding of how to use [Git](https://git-scm.
 - [ ] 1. Fork [this repository](https://github.com/DallasFormulaRacing/Onboarding) to your own GitHub account.
 - [ ] 2. Clone the repo that you just forked to your local machine.
 - [ ] 3. Install the two required packages for the project, which are `pandas` and `plotly`.
-- [ ] 4. Download [this CSV file](https://cdn.discordapp.com/attachments/753049702001541200/1281389697502937089/can-_ecu_762.csv?ex=68c355a6&is=68c20426&hm=51de5b44731affa78a853213b44a121e904f7d5b39ed7a03f66d3e6cce2c1c1b) to your local machine and place it in the repo folder that you cloned from step one.
+- [ ] 4. Download <a href="../../assets/can_data.csv" download="can_data.csv">This CSV</a> to your local machine and place it in the repo folder that you cloned from step one.
 
 ## The project
 
