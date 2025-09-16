@@ -14,7 +14,7 @@ Now that you've got a general understanding of how to use [Git](https://git-scm.
 There are 5 main tasks that you will need to complete for this project, which are as follows:
 
 - [ ] 1. Load the CSV file into a `pandas` DataFrame.
-- [ ] 2. Clean the data by removing all columns that contain `null` data, or sensors that consistently read the same value across all rows.
+- [ ] 2. Clean the data by removing all columns named 'Analog Input' that contain the same value for every row.
 - [ ] 3. Create a line graph(s) using `plotly` that shows the change in `RPM` over time and change in `TPS` over time. This can either be done in separate graphs or in the same graph if you prefer.
 - [ ] 4. Add appropriate titles and labels to your graphs for clarity.
 - [ ] 5. Submit a pull request with your completed code to the original repository.

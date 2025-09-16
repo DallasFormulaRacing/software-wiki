@@ -30,7 +30,7 @@ Within your `Basic information` section, you should include the following detail
 #### PM info
 * Name - Full first name and last initial - `John D.`
 * GitHub - GitHub handle - `@JohnDoe123`
-* Discord - Discord user as a URL - `[John D.](https://discord.com/users/{DISCORD_ID})`
+* Discord - Discord user as a URL - `[John D.](https://discord.com/users/DISCORD_USER_ID_NOT_USERNAME)`
 
 #### Contributors
 
