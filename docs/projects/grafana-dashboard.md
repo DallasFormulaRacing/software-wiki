@@ -10,7 +10,7 @@
 * Discord - [saic06](https://discord.com/users/342061974600810506)
 
 ### Contributors
-* Gino (@lordhathmercy)
+* Gino - [Discord @lordhathmercy](https://discord.com/users/143942073639239681)
 
 ### Description
 
