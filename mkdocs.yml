@@ -145,6 +145,7 @@ nav:
     - Learning Docker: resources/learning-Docker.md
   - Projects:
     - better-onboarding: projects/better-onboarding.md
+    - Grafana Dashboard: projects/grafana.md
   - Policies:
     - Style Guide: policies/style-guide.md
     - Project Documentation Guidelines: policies/project-documentation-guidelines.md
