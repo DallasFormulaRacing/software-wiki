@@ -149,5 +149,5 @@ nav:
     - Racing Data Converter: projects/racing-data-converter.md
     - Software Wiki: projects/software-wiki.md
   - Policies:
-    - Style Guide: policies/style-guide.md
     - Project Documentation Guidelines: policies/project-documentation-guidelines.md
+    - Style Guide: policies/style-guide.md
