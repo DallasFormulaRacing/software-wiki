@@ -30,7 +30,7 @@ Within your `Basic information` section, you should include the following detail
 #### PM info
 * Name - Full first name and last initial - `John D.`
 * GitHub - GitHub handle - `@JohnDoe123`
-* Discord - Discord user as a URL - `[John D.](https://discord.com/users/DISCORD_USER_ID_NOT_USERNAME)`
+* Discord - Discord user as a URL - `[@JohnDoe123](https://discord.com/users/DISCORD_USER_ID_NOT_USERNAME)`
 
 #### Contributors
 
@@ -51,8 +51,8 @@ This is a semi-static codeblock that should be inserted, and have the repo name 
 ### Contributors
 
 * Full first name and last initial - Discord handle
-* John D. - JohnDoe123
-* Jane S. - JaneSmith123
+* John D. - `[@JohnDoe123](https://discord.com/users/837135039917457436)`
+* Jane S. - `[@JaneSmith123](https://discord.com/users/837135039917457436)`
 ```
 
 #### Description
