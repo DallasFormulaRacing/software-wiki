@@ -42,7 +42,7 @@ This is a semi-static codeblock that should be inserted, and have the repo name 
 ### Contributors
 
 <a href = "https://github.com/dallasformularacing/{REPO_NAME}/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=dallasformularacing/{REPO_NAME}" width="3%">
+  <img src = "https://contrib.rocks/image?repo=dallasformularacing/{REPO_NAME}" style="width:auto;height:32px;">
 </a>
 ```
 ##### Non-GitHub project
@@ -79,7 +79,7 @@ List any dependencies required to work with the source code of your project. Thi
 A numbered step by step list of instructions for installing, or building your project locally. This should start any commands for cloning, building, and running the project. An example of this can be found below:
 
 ```md
-1. Clone the repo `git clone https://github.com/DallasFormulaRacing/better-onboarding.git`
+1. Clone the repo `git clone https://github.com/DallasFormulaRacing/software-wiki.git`
 2. Make a new branch in the repo for your changes `git checkout -b <branch-name>`
 3. In the root directory of the project, run `pipenv install` to install dependencies and build your virtual environment.
 4. Run `pipenv shell` to enter the virtual environment.

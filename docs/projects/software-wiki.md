@@ -13,7 +13,7 @@
 ### Contributors
 
 <a href = "https://github.com/dallasformularacing/software-wiki/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=dallasformularacing/software-wiki" width="3%">
+  <img src = "https://contrib.rocks/image?repo=dallasformularacing/software-wiki" style="width:auto;height:32px;">
 </a>
 
 ### Description

@@ -11,7 +11,7 @@
 
 ### Contributors
 <a href = "https://github.com/DallasFormulaRacing/racing-data-converter/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=dallasformularacing/racing-data-converter" width="3%">
+  <img src = "https://contrib.rocks/image?repo=dallasformularacing/racing-data-converter" style="width:auto;height:32px;">
 </a>
 
 ### Description
