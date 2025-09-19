@@ -10,8 +10,8 @@ remote_branch: main
 remote_name: origin
 
 # Repository
-repo_name: DallasFormulaRacing/better-onboarding
-repo_url: https://github.com/DallasFormulaRacing/better-onboarding
+repo_name: DallasFormulaRacing/software-wiki
+repo_url: https://github.com/DallasFormulaRacing/software-wiki
 
 # Copyright
 copyright: Copyright &copy; 2025 Dallas Formula Racing
@@ -144,10 +144,14 @@ nav:
     - Learning SQL: resources/learning-SQL.md
     - Learning Docker: resources/learning-Docker.md
   - Projects:
-    - better-onboarding: projects/better-onboarding.md
-    - Cloud:
-      - assetto-corsa-streaming: projects/cloud/assetto-corsa-streaming.md
-      - star-stream: projects/cloud/star-stream.md
+    - Assetto Corsa Streaming: projects/assetto-corsa-streaming.md
+    - Deployment Platform: projects/deployment-platform.md
+    - Grafana Dashboard: projects/grafana-dashboard.md
+    - Racing Data Converter: projects/racing-data-converter.md
+    - Onboard CAN Streaming: projects/onboard-can-streaming.md
+    - Software Wiki: projects/software-wiki.md
+    - Star Stream: projects/cloud/star-stream.md
+    - Web Dashboard: projects/dashboard/dashboard.md
   - Policies:
-    - Style Guide: policies/style-guide.md
     - Project Documentation Guidelines: policies/project-documentation-guidelines.md
+    - Style Guide: policies/style-guide.md
