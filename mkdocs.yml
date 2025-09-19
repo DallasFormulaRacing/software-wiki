@@ -146,7 +146,8 @@ nav:
   - Projects:
     - assetto-corsa-streaming: projects/assetto-corsa-streaming.md
     - better-onboarding: projects/better-onboarding.md
-    - grafana-dashboard: projects/grafana-dashboard.md
+    - Grafana Dashboard: projects/grafana-dashboard.md
+    - Racing Data Converter: projects/racing-data-converter.md
   - Policies:
     - Style Guide: policies/style-guide.md
     - Project Documentation Guidelines: policies/project-documentation-guidelines.md
