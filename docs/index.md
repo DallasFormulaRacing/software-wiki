@@ -22,9 +22,14 @@ Although this TOC is still maintained, it is highly recommended that you use the
     * [Learning Docker](resources/learning-Docker.md)
 * Projects
     * [Assetto Corsa Streaming](projects/assetto-corsa-streaming.md)
+    * [Deployment Platform](projects/deployment-platform.md)
+    * [Finance Dashboard](projects/finance-dashboard.md)
     * [Grafana Dashboard](projects/grafana-dashboard.md)
+    * [Onboard CAN Streaming](projects/onboard-can-streaming.md)
     * [Racing Data Converter](projects/racing-data-converter.md)
     * [Software Wiki](projects/software-wiki.md)
+    * [Star Stream](projects/cloud/star-stream.md)
+    * [Web Dashboard](projects/dashboard/dashboard.md)
 * Policies
     * [Style Guide](policies/style-guide.md)
     * [Project Documentation Guidelines](policies/project-documentation-guidelines.md)
