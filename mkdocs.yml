@@ -144,8 +144,9 @@ nav:
     - Learning SQL: resources/learning-SQL.md
     - Learning Docker: resources/learning-Docker.md
   - Projects:
+    - assetto-corsa-streaming: projects/assetto-corsa-streaming.md
     - better-onboarding: projects/better-onboarding.md
-    - Grafana Dashboard: projects/grafana-dashboard.md
+    - grafana-dashboard: projects/grafana-dashboard.md
   - Policies:
     - Style Guide: policies/style-guide.md
     - Project Documentation Guidelines: policies/project-documentation-guidelines.md
