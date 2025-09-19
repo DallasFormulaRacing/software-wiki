@@ -147,6 +147,7 @@ nav:
     - Assetto Corsa Streaming: projects/assetto-corsa-streaming.md
     - Grafana Dashboard: projects/grafana-dashboard.md
     - Racing Data Converter: projects/racing-data-converter.md
+    - Onboard CAN Streaming: projects/onboard-can-streaming.md
     - Software Wiki: projects/software-wiki.md
   - Policies:
     - Project Documentation Guidelines: policies/project-documentation-guidelines.md
