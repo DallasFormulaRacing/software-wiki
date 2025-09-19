@@ -145,6 +145,7 @@ nav:
     - Learning Docker: resources/learning-Docker.md
   - Projects:
     - Assetto Corsa Streaming: projects/assetto-corsa-streaming.md
+    - Deployment Platform: projects/deployment-platform.md
     - Grafana Dashboard: projects/grafana-dashboard.md
     - Racing Data Converter: projects/racing-data-converter.md
     - Software Wiki: projects/software-wiki.md
