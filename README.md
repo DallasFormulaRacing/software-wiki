@@ -1,4 +1,4 @@
-# better-onboarding
+# software-wiki
 A total redo of the onboarding process 
 
 **NOTE THIS IS THE SOURCE REPO, NOT THE PUBLISHED VERSION. THE PUBLISHED VERSION CAN BE FOUND [HERE](https://software.dallasformularacing.com/)!**
@@ -11,7 +11,7 @@ A total redo of the onboarding process
 
 
 ## Installation
-1. Clone the repo `git clone https://github.com/DallasFormulaRacing/better-onboarding.git`
+1. Clone the repo `git clone https://github.com/DallasFormulaRacing/software-wiki.git`
 2. Make a new branch in the repo for your changes `git checkout -b <branch-name>`
 3. In the root directory of the project, run `pipenv install` to install dependencies and build your virtual environment.
 4. Run `pipenv shell` to enter the virtual environment.

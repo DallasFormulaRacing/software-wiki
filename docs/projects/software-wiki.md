@@ -1,4 +1,4 @@
-# [better-onboarding ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DallasFormulaRacing/better-onboarding/)
+# [Software Wiki ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DallasFormulaRacing/software-wiki/)
 
 ## Basic information
 
@@ -12,8 +12,8 @@
 
 ### Contributors
 
-<a href = "https://github.com/dallasformularacing/better-onboarding/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=dallasformularacing/better-onboarding" width="3%">
+<a href = "https://github.com/dallasformularacing/software-wiki/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=dallasformularacing/software-wiki" width="3%">
 </a>
 
 ### Description
@@ -30,7 +30,7 @@ When preparing to document a project you may be working on, please note that you
 
 
 ### Installation
-1. Clone the repo `git clone https://github.com/DallasFormulaRacing/better-onboarding.git`
+1. Clone the repo `git clone https://github.com/DallasFormulaRacing/software-wiki.git`
 2. Make a new branch in the repo for your changes `git checkout -b <branch-name>`
 3. In the root directory of the project, run `pipenv install` to install dependencies and build your virtual environment.
 4. Run `pipenv shell` to enter the virtual environment.
