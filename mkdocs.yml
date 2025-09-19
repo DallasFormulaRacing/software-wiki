@@ -146,6 +146,7 @@ nav:
   - Projects:
     - Assetto Corsa Streaming: projects/assetto-corsa-streaming.md
     - Deployment Platform: projects/deployment-platform.md
+    - Finance Dashboard: projects/finance-dashboard.md
     - Grafana Dashboard: projects/grafana-dashboard.md
     - Racing Data Converter: projects/racing-data-converter.md
     - Onboard CAN Streaming: projects/onboard-can-streaming.md
