@@ -8,11 +8,11 @@
 
 * Name - Reid M.
 * GitHub - @RMin280
-* Discord - nerdboi654
+* Discord - [@nerdboi654](https://discord.com/users/810644655393079299)
 
 ### Contributors
 
-Josh J. - onionwhaseyo
+Josh J. - [Discord @onionwhaseyo](https://discord.com/users/1416276203362455673)
 
 ### Description
 
