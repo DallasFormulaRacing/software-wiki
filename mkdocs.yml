@@ -148,6 +148,7 @@ nav:
     - Grafana Dashboard: projects/grafana-dashboard.md
     - Racing Data Converter: projects/racing-data-converter.md
     - Software Wiki: projects/software-wiki.md
+    - Web Dashboard: projects/dashboard/dashboard.md
   - Policies:
     - Project Documentation Guidelines: policies/project-documentation-guidelines.md
     - Style Guide: policies/style-guide.md
