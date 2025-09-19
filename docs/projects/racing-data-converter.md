@@ -6,7 +6,7 @@
 
 ### PM info
 * Name - Andrew K.
-* GitHub - `@aklundt`
+* GitHub - @aklundt
 * Discord - [Andrew Klundt](https://discord.com/users/837135039917457436)
 
 ### Contributors
