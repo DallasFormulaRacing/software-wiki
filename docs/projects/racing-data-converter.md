@@ -1,4 +1,4 @@
-# [Racing Data Converter ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DallasFormulaRacing/Testing-Data-Converter)
+# [Racing Data Converter ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DallasFormulaRacing/racing-data-converter)
 
 ## Basic information
 
@@ -7,10 +7,11 @@
 ### PM info
 * Name - Andrew K.
 * GitHub - `@aklundt`
+* Discord - [Andrew Klundt](https://discord.com/users/837135039917457436)
 
 ### Contributors
-<a href = "https://github.com/DallasFormulaRacing/Testing-Data-Converter/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=dallasformularacing/Testing-Data-Converter" width="3%">
+<a href = "https://github.com/DallasFormulaRacing/racing-data-converter/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=dallasformularacing/racing-data-converter" width="3%">
 </a>
 
 ### Description
@@ -27,6 +28,8 @@ The `example_use.py` script demonstrates how to integrate these modules into a c
 
 ## Working with the source
 
+---
+
 ### Dependencies
 
 * Python 3.9 or higher.
@@ -40,12 +43,12 @@ The `example_use.py` script demonstrates how to integrate these modules into a c
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/DallasFormulaRacing/Testing-Data-Converter.git
+   git clone https://github.com/DallasFormulaRacing/racing-data-converter.git
    ```
 2. Change into the project directory:
 
    ```sh
-   cd Testing-Data-Converter
+   cd racing-data-converter
    ```
 3. (Optional) Create and activate a Python virtual environment:
 
