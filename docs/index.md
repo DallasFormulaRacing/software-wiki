@@ -21,7 +21,7 @@ Although this TOC is still maintained, it is highly recommended that you use the
     * [Learning SQL](resources/learning-SQL.md)
     * [Learning Docker](resources/learning-Docker.md)
 * Projects
-    * [Assetto Corsa Streaming](projects/assetto-corsa-streaming.md)
+    * [Assetto Corsa Streaming](projects/cloud/assetto-corsa-streaming.md)
     * [Deployment Platform](projects/deployment-platform.md)
     * [Finance Dashboard](projects/finance-dashboard.md)
     * [Grafana Dashboard](projects/grafana-dashboard.md)

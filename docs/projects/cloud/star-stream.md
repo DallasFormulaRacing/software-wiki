@@ -12,7 +12,7 @@
 
 ### Contributors
 
-Josh J. - onionwhaseyo
+Josh J. - [onionwhaseyo](https://discord.com/users/1416276203362455673)
 
 ### Description
 
