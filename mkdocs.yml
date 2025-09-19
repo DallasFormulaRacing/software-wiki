@@ -150,6 +150,7 @@ nav:
     - Racing Data Converter: projects/racing-data-converter.md
     - Onboard CAN Streaming: projects/onboard-can-streaming.md
     - Software Wiki: projects/software-wiki.md
+    - Star Stream: projects/cloud/star-stream.md
     - Web Dashboard: projects/dashboard/dashboard.md
   - Policies:
     - Project Documentation Guidelines: policies/project-documentation-guidelines.md
