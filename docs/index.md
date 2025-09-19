@@ -21,7 +21,10 @@ Although this TOC is still maintained, it is highly recommended that you use the
     * [Learning SQL](resources/learning-SQL.md)
     * [Learning Docker](resources/learning-Docker.md)
 * Projects
-    * [better-onboarding](projects/better-onboarding.md)
+    * [Assetto Corsa Streaming](projects/assetto-corsa-streaming.md)
+    * [Grafana Dashboard](projects/grafana-dashboard.md)
+    * [Racing Data Converter](projects/racing-data-converter.md)
+    * [Software Wiki](projects/software-wiki.md)
 * Policies
     * [Style Guide](policies/style-guide.md)
     * [Project Documentation Guidelines](policies/project-documentation-guidelines.md)
