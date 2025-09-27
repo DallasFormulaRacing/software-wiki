@@ -5,6 +5,11 @@ Hey, welcome to the [DFR](https://dallasformularacing.com/) Software Wiki! This 
 !!! info "WIP" 
     This wiki is currently a **work in progress** project that does not reflect all of the resources or projects within DFR at this moment in time, and as such should not be treated as the be all and end all of information regarding our internal systems.
 
+# Software Infrastructure Plan
+
+<iframe src="https://s.icepanel.io/nKuN0rtiiuCnqJ/SLxP" width="100%" height="500px" title="DFR Tech Stack"></iframe>
+
+---
 
 # Table of contents
 
