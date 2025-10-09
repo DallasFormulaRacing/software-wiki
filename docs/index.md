@@ -26,18 +26,22 @@ Although this TOC is still maintained, it is highly recommended that you use the
     * [Learning SQL](resources/learning-SQL.md)
     * [Learning Docker](resources/learning-Docker.md)
 * Projects
-    * [Assetto Corsa Streaming](projects/cloud/assetto-corsa-streaming.md)
-    * [Deployment Platform](projects/deployment-platform.md)
+    * Cloud
+        * [Assetto Corsa Streaming](projects/cloud/assetto-corsa-streaming.md)
+        * [Star Stream](projects/cloud/star-stream.md)
+    * Deployment CI/CD
+        * [Deployment Platform](projects/deployment-ci-cd/deployment-platform.md)
+    * Frontend and Data Visualization
+        * [Grafana Dashboard](projects/frontend-and-data-vis/grafana-dashboard.md)
+        * [Web Dashboard](projects/frontend-and-data-vis/dashboard.md)
+    * Onboard Car
+        * [Onboard CAN Streaming](projects/onboard-car/onboard-can-streaming.md)
+        * [Racing Data Converter](projects/onboard-car/racing-data-converter.md)
     * [Finance Dashboard](projects/finance-dashboard.md)
-    * [Grafana Dashboard](projects/grafana-dashboard.md)
-    * [Onboard CAN Streaming](projects/onboard-can-streaming.md)
-    * [Racing Data Converter](projects/racing-data-converter.md)
-    * [Software Wiki](projects/software-wiki.md)
-    * [Star Stream](projects/cloud/star-stream.md)
-    * [Web Dashboard](projects/dashboard/dashboard.md)
 * Policies
-    * [Style Guide](policies/style-guide.md)
+    * [Best Development Practices](policies/best-development-practices.md)
     * [Project Documentation Guidelines](policies/project-documentation-guidelines.md)
+    * [Style Guide](policies/style-guide.md)
 
 
 # Introduction

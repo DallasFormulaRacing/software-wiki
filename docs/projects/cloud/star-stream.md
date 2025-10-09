@@ -8,7 +8,7 @@
 
 * Name - Reid M.
 * GitHub - @RMin280
-* Discord - [@nerdboi654](https://discord.com/users/810644655393079299)
+* Discord - [nerdboi654](https://discord.com/users/810644655393079299)
 
 ### Contributors
 

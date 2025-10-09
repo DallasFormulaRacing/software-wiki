@@ -1,7 +1,7 @@
 # Project information
 site_name: DFR Software Wiki
 site_url: https://software.dallasformularacing.com/
-site_author: William Davis
+site_author: Dallas Formula Racing
 site_description: >-
   The home of anything and everything software related for Dallas Formula Racing.
 
@@ -19,7 +19,6 @@ copyright: Copyright &copy; 2025 Dallas Formula Racing
 # Configuration
 theme:
   name: material
-  custom_dir: material/overrides
   features:
     - announce.dismiss
     - content.action.edit
@@ -27,14 +26,14 @@ theme:
     - content.code.annotate
     - content.code.copy
     - content.tooltips
+    - navigation.instant
     - navigation.footer
-    - navigation.sections
     - navigation.path
-    - navigation.top
     - search.highlight
     - search.share
     - search.suggest
     - toc.follow
+    - navigation.sections
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -73,9 +72,6 @@ plugins:
 
 # Additional configuration
 extra:
-  status:
-    new: Recently added
-    deprecated: Deprecated
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/DallasFormulaRacing
@@ -105,11 +101,6 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.keys
-  - pymdownx.magiclink:
-      normalize_issue_symbols: true
-      repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
@@ -120,14 +111,15 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
-  - pymdownx.tasklist:
-      custom_checkbox: true
   - pymdownx.tilde
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -144,15 +136,21 @@ nav:
     - Learning SQL: resources/learning-SQL.md
     - Learning Docker: resources/learning-Docker.md
   - Projects:
-    - Assetto Corsa Streaming: projects/cloud/assetto-corsa-streaming.md
-    - Deployment Platform: projects/deployment-platform.md
+    - Cloud:
+      - Assetto Corsa Streaming: projects/cloud/assetto-corsa-streaming.md
+      - Star Stream: projects/cloud/star-stream.md
+    - Deployment CI/CD:
+      - CI/CD Overview: projects/deployment-ci-cd/deployment-platform.md
+    - Frontend and Data Visualization:
+      - Grafana Dashboard: projects/frontend-and-data-vis/grafana-dashboard.md
+      - Web Dashboard: projects/frontend-and-data-vis/dashboard.md
+    - Onboard Car:
+      - Onboard CAN Streaming: projects/onboard-car/onboard-can-streaming.md
+      - Racing Data Converter: projects/onboard-car/racing-data-converter.md
     - Finance Dashboard: projects/finance-dashboard.md
-    - Grafana Dashboard: projects/grafana-dashboard.md
-    - Racing Data Converter: projects/racing-data-converter.md
-    - Onboard CAN Streaming: projects/onboard-can-streaming.md
     - Software Wiki: projects/software-wiki.md
-    - Star Stream: projects/cloud/star-stream.md
-    - Web Dashboard: projects/dashboard/dashboard.md
+    
   - Policies:
+    - Best Development Practices: policies/best-development-practices.md
     - Project Documentation Guidelines: policies/project-documentation-guidelines.md
     - Style Guide: policies/style-guide.md
