@@ -12,6 +12,7 @@ remote_name: origin
 # Repository
 repo_name: DallasFormulaRacing/software-wiki
 repo_url: https://github.com/DallasFormulaRacing/software-wiki
+edit_uri: edit/src/docs/
 
 # Copyright
 copyright: Copyright &copy; 2025 Dallas Formula Racing
@@ -69,6 +70,7 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
+  - open-in-new-tab
 
 # Additional configuration
 extra:
@@ -149,7 +151,6 @@ nav:
       - Racing Data Converter: projects/onboard-car/racing-data-converter.md
     - Finance Dashboard: projects/finance-dashboard.md
     - Software Wiki: projects/software-wiki.md
-    
   - Policies:
     - Best Development Practices: policies/best-development-practices.md
     - Project Documentation Guidelines: policies/project-documentation-guidelines.md
